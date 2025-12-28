@@ -24,4 +24,6 @@ Add code Here
 
 ## Output
 <img width="803" height="409" alt="image" src="https://github.com/user-attachments/assets/a5d591b5-81ba-416b-aff0-41b5a6cd5180" />
+## Result
+Thus , the program has been executed succesfully.
 
